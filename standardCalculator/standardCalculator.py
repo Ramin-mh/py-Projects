@@ -193,7 +193,6 @@ class Calculator(QWidget):
                 
         if op == "=":
             self.operand.clear()
-            print(self.operand)
             self.operator.clear()
         else:
             self.nums_entered = ""
