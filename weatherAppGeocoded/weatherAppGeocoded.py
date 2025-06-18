@@ -12,7 +12,7 @@ class WeatherAPP(QWidget):
         self.temperature_label = QLabel(self)
         self.emoji_label = QLabel(self)
         self.description_label = QLabel(self)
-        self.api_key = "03f089d02628d1198925b48ac418e249" # use your api key from openweathermap.org
+        self.api_key = "" # use your api key from openweathermap.org
 
         self.initUI()
 
