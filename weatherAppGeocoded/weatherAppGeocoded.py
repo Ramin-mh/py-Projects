@@ -1,12 +1,13 @@
 import sys
 import os
+from pathlib import Path
 import requests
 from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QVBoxLayout, QLineEdit, QPushButton
 from PyQt5.QtCore import Qt
 from dotenv import load_dotenv
 
 # Load the .env file
-load_dotenv()
+load_dotenv(dotenv_path=Path(__file__).resolve().parent / ".env")
 
 class WeatherAPP(QWidget):
     def __init__(self):
