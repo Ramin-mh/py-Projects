@@ -251,16 +251,6 @@ class Calculator(QWidget):
 
                     self.equal_clicked_last = True
 
-                    # if len(self.operand) == 0:
-                    #     self.worked_label.setText(f"{self.working_label.text()}=")
-                    # elif len(self.operand) == 1:
-                    #     self.worked_label.setText(f"{self.worked_label.text()}{self.working_label.text()}=")
-                    #     self.operand.append(self.is_integer(float(self.nums_entered) if not self.nums_entered == "" else 0))
-                    #     self.calculate("=")
-                    # elif len(self.operand) == 2:
-                    #     self.worked_label.setText(f"{self.worked_label.text()}{self.working_label.text()}=")
-                    #     self.calculate("=")
-
     # Run when window is resized
     def resizeEvent(self, event):
         super().resizeEvent(event)
