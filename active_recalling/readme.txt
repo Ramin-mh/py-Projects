@@ -1,0 +1,1 @@
+This Python script transforms a standard CSV file into an interactive study tool by randomly blanking out specified cells. It is designed to help users practice active recall, making it easier to memorize information efficiently. Perfect for flashcards, quizzes, and self-testing exercises.

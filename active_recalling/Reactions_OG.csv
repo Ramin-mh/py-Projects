@@ -1,0 +1,68 @@
+Reaction,Reagent(s),Mechanism Type,Key Idea/Notes
+Acyloin Condensation,"Na, liquid NH3, esters",Reductive coupling,Esters to α-hydroxy ketones; radical intermediates.
+Alcohol Dehydration,"Conc. H2SO4, 170°C",E1/E2 elimination,"Forms alkenes; 1° alcohols favor E2, 3° favor E1, Zaitsev rule."
+Alcohol Oxidation,KMnO4 / K2Cr2O7 / PCC,Redox,1° to carboxylic acid (KMnO4) or aldehyde (PCC); 2° to ketone.
+Alcohol to Alkyl Halide,PCl3/PBr3/PI3,Nucleophilic substitution,Replaces -OH with halogen; retains configuration for 2°.
+Alcohol to Halide (with acid),"HCl/ZnCl2, HBr, HI",Nucleophilic substitution (Lewis acid catalyzed),ZnCl2 for 1°/2° alcohols; tertiary react fastest.
+Alcohol/Carboxylic Acid to Chloride,SOCl2/PCl5,Nucleophilic acyl substitution,SOCl2 with pyridine for inversion in alcohols.
+Aldehyde Oxidation,Tollens/Fehling/KMnO4,Redox,-CHO to -COOH; Tollens gives silver mirror for aldehydes.
+Aldol Condensation,"Dilute base (NaOH), aldehydes/ketones",Enolate mechanism,"Forms β-hydroxy carbonyl then α,β-unsaturated; crossed aldol if one lacks α-H."
+Alkyne Oxidation,Hot KMnO4,Oxidation,Internal alkyne to diketone or carboxylic acids.
+Aromatic Nitration,Conc. HNO3 + Conc. H2SO4,Electrophilic aromatic substitution (EAS),NO2+ electrophile; ortho/para directing for activators.
+Azo Coupling,Ar-N2+ + Ar'-OH/NH2,EAS,Forms azo dyes; couples at activated positions.
+Baeyer’s Test,"Cold, dilute KMnO4",Oxidation,Unsaturated compounds decolorize purple; alkene to syn-diol.
+Balz-Schiemann Reaction,"Ar-NH2, NaNO2, HBF4, heat",Diazotization and thermal decomposition,Introduces F to aromatic ring; via diazonium fluoroborate.
+Benzylic Oxidation,KMnO4 (acidic),Oxidation,Ar-CH3 to Ar-COOH; side chain oxidation regardless of chain length.
+Cannizzaro Reaction,"Non-enolizable aldehyde, conc. NaOH",Hydride transfer,Disproportionation to acid and alcohol; no α-H required.
+Carbylamine Reaction/Test,"Primary amine, CHCl3, KOH",Addition to dichlorocarbene,Forms foul-smelling isocyanide; test for 1° amines.
+Claisen Condensation,Ester + strong base (NaOEt),Enolate mechanism,Forms β-keto ester; requires α-H on ester.
+Claisen–Schmidt Condensation,Aldehyde + ketone + base,Enolate mechanism,"Forms α,β-unsaturated ketone; crossed version of aldol."
+Clemmensen Reduction,"Zn(Hg)/HCl, carbonyls",Carbocation path,"Carbonyl to methylene; acidic conditions, good for aryl ketones."
+Condensation Polymers,Diamine + diacid / Phenol + HCHO / Glycol + terephthalic acid,Step-growth,"Loss of H2O/HCl; e.g., nylon, bakelite, PET."
+Cracking/Pyrolysis,"Heat (500–800°C), catalyst",Radical/carbocation,Breaks large hydrocarbons to smaller alkanes/alkenes.
+Decarboxylation,R-COONa + NaOH/CaO,Elimination,Forms alkane + CO2; soda lime method.
+Dehydrohalogenation,"Alc. KOH, heat, alkyl halide",E2 elimination,"Forms alkene; Zaitsev product, anti-periplanar geometry."
+Diazotisation,Ar-NH2 + NaNO2 + HCl (0–5°C),Nitrous acid,Forms diazonium salt; low temp to prevent decomposition.
+Dow's Process (Chlorobenzene to Phenol),"NaOH (high temp), chlorobenzene",Nucleophilic aromatic substitution (benzyne),Via benzyne intermediate; requires activated halide.
+Electrophilic Addition (to Alkenes/Alkynes),"H2O, HX, halogens, NO2+, Hg2+",Carbocation intermediate,"Markovnikov addition; anti for halogens, syn for some."
+Etard Reaction,"Chromyl chloride (CrO2Cl2), Ar-CH3",Chromyl oxidation,Oxidizes toluene side chain to aldehyde.
+Finkelstein Reaction,"NaI/acetone, alkyl halide",SN2,Halogen exchange (Cl/Br to I); acetone drives equilibrium.
+Fischer Esterification,"R-COOH + R'-OH, H2SO4",Nucleophilic acyl substitution,"Forms ester + H2O; reversible, acid-catalyzed."
+Fittig Reaction,"2Ar-X + 2Na, dry ether",Radical coupling,Forms biaryl (Ar-Ar).
+Friedel–Crafts Acylation,"RCOCl + AlCl3, benzene",EAS,"Acylium ion (RCO+); deactivates ring, no polyacylation."
+Friedel–Crafts Alkylation,"R-Cl + AlCl3, benzene",EAS,"Carbocation (R+); rearrangements possible, polyalkylation."
+Fries Rearrangement,ArCOOR' + AlCl3,Carbocation rearrangement,Acyl group shifts to ortho/para on phenol.
+Gabriel Phthalimide Synthesis,"Potassium phthalimide + R-X, then hydrolysis",SN2,Primary amines without overalkylation.
+Gattermann Reaction,Ar-N2+ + Cu/HCl or Cu/HBr,Radical substitution,Introduces Cl/Br to aromatic ring.
+Gattermann-Koch Reaction,Benzene + CO/HCl + AlCl3/CuCl,EAS,Introduces formyl group (-CHO); not for phenols.
+Haloform Reaction,CH3-COR + I2/NaOH,Enolate halogenation,Forms haloform (CHI3 yellow ppt) + carboxylate.
+Halogen Exchange for Fluorides,"AgF/Hg2F2/SbF3/CoF2, alkyl halide",Halogen exchange,Converts Cl/Br to F.
+Halogenation of Alkanes,"Cl2/Br2, hv",Free radical substitution,Chain reaction; selectivity Br > Cl.
+Halogenation of Benzene,Cl2/FeCl3 or Br2/FeBr3,EAS,Introduces Cl/Br; Lewis acid generates X+.
+Hinsberg Test,Benzene sulfonyl chloride + amine,Nucleophilic substitution,"Differentiates 1° (soluble in alkali), 2° (insoluble), 3° (no reaction)."
+Hoffmann Bromamide,R-CONH2 + Br2/NaOH,Rearrangement via nitrene,Forms amine with one less carbon.
+HVZ Reaction,R-CH2-COOH + Br2/P,Enolate halogenation,α-Halogenation of carboxylic acids.
+Hydration of Alkenes,H2O/H2SO4,Carbocation,Markovnikov alcohol; rearrangements possible.
+Hydrolysis of Alkyl Halide,"Aq. KOH, alkyl halide",Nucleophilic substitution,"Forms alcohol; SN1 for 3°, SN2 for 1°."
+Kolbe Electrolysis,R-COONa (aq) + electrolysis,Radical coupling,Forms R-R + CO2 at anode.
+Kolbe’s Reaction,"Phenol + CO2/NaOH, 125°C",EAS,Forms salicylic acid (ortho).
+Lucas Test,"Conc. HCl + ZnCl2, alcohol",SN1,Distinguishes alcohols; 3° fastest (turbidity).
+Nitration of Benzene,H2SO4/HNO3,EAS,NO2+ attack; meta for deactivators.
+Nucleophilic Addition (C=O),"NaHSO3, HCN, NH3, RMgX",Nucleophilic addition,Attack on carbonyl; forms adducts like cyanohydrins.
+Oxidative Cleavage of Alkenes,"Hot, conc. KMnO4 (acidic)",Oxidation,Cleaves C=C to ketones/COOH.
+Ozonolysis,O3 + Zn/H2O,Oxidative cleavage,Cleaves C=C to carbonyls; reductive workup.
+Polymerisation,"Peroxide initiator, heat",Radical polymerisation,"Chain growth; e.g., alkenes to polymers."
+Reimer–Tiemann,Phenol + CHCl3/NaOH,Carbene substitution,Introduces -CHO ortho to OH via :CCl2.
+Rosenmund Reduction,"R-COCl + H2, Pd/BaSO4",Catalytic hydrogenation,Acid chloride to aldehyde; poison prevents over-reduction.
+Sandmeyer Reaction,Ar-N2+ + CuCl/CuBr/CuCN,Radical substitution,Converts diazonium to Cl/Br/CN.
+Schiemann Reaction,"Ar-N2+ BF4-, heat",Thermal decomposition,Same as Balz-Schiemann for F.
+Side-Chain Halogenation,"Cl2/Br2, hv, Ar-CH3",Radical substitution,Benzylic position; stable radical.
+SN1 Substitution,"Aq. KOH/H2O/ROH, 3° halide",Nucleophilic substitution (unimolecular),"Carbocation; racemization, rearrangements."
+SN2 Substitution,"NaOH/NaCN/NH3/R-O-, 1° halide",Nucleophilic substitution (bimolecular),"Inversion, no rearrangements, backside attack."
+Stephen Reduction,R-CN + SnCl2/HCl,Reduction,Nitrile to aldehyde.
+Sulphonation of Benzene,Fuming H2SO4,EAS,SO3 electrophile; reversible.
+Swarts Reaction,R-Cl + AgF/SbF3/Hg2F2,Halogen exchange,Alkyl chloride to fluoride.
+Williamson Ether,R-ONa + R'-X,SN2,Forms ether; best for 1° halides.
+Wolff–Kishner Reduction,"NH2NH2/KOH, carbonyl",Carbanion path,Carbonyl to methylene; basic conditions.
+Wurtz Reaction,"2R-X + 2Na, dry ether",Radical coupling,Forms R-R; symmetric alkane.
+Wurtz–Fittig,"R-X + Ar-X + 2Na, dry ether",Radical coupling,Forms R-Ar.
